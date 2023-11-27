@@ -1,0 +1,1645 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "502",
+    "opensearch:startIndex": "25",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "COMP|\"Computer Vision and Pattern Recognition\"+OR+\"Computer Vision and Image Recognition\"",
+      "@startPage": "25"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=25&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "prev",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=50&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=477&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893268562"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893268562?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84893268562&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84893268562&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84893268562",
+        "dc:identifier": "SCOPUS_ID:84893268562",
+        "eid": "2-s2.0-84893268562",
+        "dc:title": "Sparse variation pattern for texture classification",
+        "dc:creator": "Tavakolian M.",
+        "prism:publicationName": "2013 International Conference on Digital Image Computing: Techniques and Applications, DICTA 2013",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479921263"
+          }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/DICTA.2013.6691530",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Tafresh",
+            "affiliation-city": "Tehran",
+            "affiliation-country": "Iran"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6691530",
+        "source-id": "21100285439",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryvor"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893223102"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893223102?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84893223102&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84893223102&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84893223102",
+        "dc:identifier": "SCOPUS_ID:84893223102",
+        "eid": "2-s2.0-84893223102",
+        "dc:title": "Evolutionary optimization-based training of convolutional neural networks for OCR applications",
+        "dc:creator": "Fedorovici L.O.",
+        "prism:publicationName": "2013 17th International Conference on System Theory, Control and Computing, ICSTCC 2013; Joint Conference of SINTES 2013, SACCS 2013, SIMSIS 2013 - Proceedings",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479922284"
+          }
+        ],
+        "prism:pageRange": "207-212",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/ICSTCC.2013.6688961",
+        "citedby-count": "13",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universitatea Politehnica Timisoara",
+            "affiliation-city": "Timisoara",
+            "affiliation-country": "Romania"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6688961",
+        "source-id": "21100285457",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893211094"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893211094?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84893211094&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84893211094&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84893211094",
+        "dc:identifier": "SCOPUS_ID:84893211094",
+        "eid": "2-s2.0-84893211094",
+        "dc:title": "Phase-based image matching and its application to biometric recognition",
+        "dc:creator": "Ito K.",
+        "prism:publicationName": "2013 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA 2013",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9789869000604"
+          }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/APSIPA.2013.6694297",
+        "citedby-count": "11",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Tohoku University",
+            "affiliation-city": "Sendai",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6694297",
+        "source-id": "21100285429",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893074756"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893074756?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84893074756&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84893074756&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84893074756",
+        "dc:identifier": "SCOPUS_ID:84893074756",
+        "eid": "2-s2.0-84893074756",
+        "dc:title": "Palm vein recognition by combining curvelet transform and gabor filter",
+        "dc:creator": "Sun J.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783319029603"
+          }
+        ],
+        "prism:volume": "8232 LNCS",
+        "prism:pageRange": "314-321",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-319-02961-0_39",
+        "citedby-count": "16",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "The University of Auckland",
+            "affiliation-city": "Auckland",
+            "affiliation-country": "New Zealand"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893031853"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84893031853?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84893031853&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84893031853&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84893031853",
+        "dc:identifier": "SCOPUS_ID:84893031853",
+        "eid": "2-s2.0-84893031853",
+        "dc:title": "Discriminant spectral hashing for compact palmprint representation",
+        "dc:creator": "Chen Y.C.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783319029603"
+          }
+        ],
+        "prism:volume": "8232 LNCS",
+        "prism:pageRange": "225-232",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-319-02961-0_28",
+        "citedby-count": "7",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Sun Yat-Sen University",
+            "affiliation-city": "Guangzhou",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84892860193"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84892860193?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84892860193&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84892860193&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84892860193",
+        "dc:identifier": "SCOPUS_ID:84892860193",
+        "eid": "2-s2.0-84892860193",
+        "dc:title": "Cross concept local fisher discriminant analysis for image classification",
+        "dc:creator": "Song X.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783642357275"
+          }
+        ],
+        "prism:volume": "7733 LNCS",
+        "prism:issueIdentifier": "PART 2",
+        "prism:pageRange": "407-416",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-642-35728-2_39",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Institute of Computing Technology Chinese Academy of Sciences",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Chinese Academy of Sciences",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84891940845"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84891940845?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84891940845&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84891940845&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84891940845",
+        "dc:identifier": "SCOPUS_ID:84891940845",
+        "eid": "2-s2.0-84891940845",
+        "dc:title": "Human activity recognition using body pose features and support vector machine",
+        "dc:creator": "Bengalur M.",
+        "prism:publicationName": "Proceedings of the 2013 International Conference on Advances in Computing, Communications and Informatics, ICACCI 2013",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781467362153"
+          }
+        ],
+        "prism:pageRange": "1970-1975",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/ICACCI.2013.6637484",
+        "citedby-count": "19",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "KLE Technological University",
+            "affiliation-city": "Hubli",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6637484",
+        "source-id": "21100278903",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84891669665"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84891669665?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84891669665&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84891669665&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84891669665",
+        "dc:identifier": "SCOPUS_ID:84891669665",
+        "eid": "2-s2.0-84891669665",
+        "dc:title": "Hierarchical compositional architecture for activity detection and recognition",
+        "dc:creator": "Per\u0161 J.",
+        "prism:publicationName": "Elektrotehniski Vestnik/Electrotechnical Review",
+        "prism:issn": "00135852",
+        "prism:eIssn": "22323228",
+        "prism:volume": "80",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "258-265",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "2013",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Univerza v Ljubljani",
+            "affiliation-city": "Ljubljana",
+            "affiliation-country": "Slovenia"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "16651",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84890892620"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84890892620?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84890892620&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84890892620&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84890892620",
+        "dc:identifier": "SCOPUS_ID:84890892620",
+        "eid": "2-s2.0-84890892620",
+        "dc:title": "Automated 3-D animation from snooker videos with information-theoretical optimization",
+        "dc:creator": "Jiang R.",
+        "prism:publicationName": "IEEE Transactions on Computational Intelligence and AI in Games",
+        "prism:issn": "1943068X",
+        "prism:volume": "5",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "337-345",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "December 2013",
+        "prism:doi": "10.1109/TCIAIG.2013.2275164",
+        "citedby-count": "8",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Bath",
+            "affiliation-city": "Bath",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Swansea University",
+            "affiliation-city": "Swansea",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "6571199",
+        "source-id": "19700177025",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888050040"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888050040?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84888050040&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84888050040&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84888050040",
+        "dc:identifier": "SCOPUS_ID:84888050040",
+        "eid": "2-s2.0-84888050040",
+        "dc:title": "Bi-level thresholding using PSO, Artificial Bee Colony and MRLDE embedded with Otsu method",
+        "dc:creator": "Kumar S.",
+        "prism:publicationName": "Memetic Computing",
+        "prism:issn": "18659284",
+        "prism:eIssn": "18659292",
+        "prism:volume": "5",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "323-334",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "December 2013",
+        "prism:doi": "10.1007/s12293-013-0123-5",
+        "citedby-count": "55",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Indian Institute of Technology Roorkee",
+            "affiliation-city": "Roorkee",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17400154829",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84885644131"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84885644131?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84885644131&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84885644131&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0030402613007821"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84885644131",
+        "dc:identifier": "SCOPUS_ID:84885644131",
+        "eid": "2-s2.0-84885644131",
+        "dc:title": "Improve the two-phase test samples representation method for palmprint recognition",
+        "dc:creator": "Li J.",
+        "prism:publicationName": "Optik",
+        "prism:issn": "00304026",
+        "prism:volume": "124",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6651-6656",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "December 2013",
+        "prism:doi": "10.1016/j.ijleo.2013.05.110",
+        "pii": "S0030402613007821",
+        "citedby-count": "15",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Harbin Institute of Technology",
+            "affiliation-city": "Harbin",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "110152",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878578969"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878578969?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84878578969&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84878578969&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84878578969",
+        "dc:identifier": "SCOPUS_ID:84878578969",
+        "eid": "2-s2.0-84878578969",
+        "dc:title": "Illumination normalization using photometric linearization",
+        "dc:creator": "Emadi M.",
+        "prism:publicationName": "Advanced Science Letters",
+        "prism:issn": "19366612",
+        "prism:eIssn": "19367317",
+        "prism:volume": "19",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3515-3519",
+        "prism:coverDate": "2013-12-01",
+        "prism:coverDisplayDate": "December 2013",
+        "prism:doi": "10.1166/asl.2013.5226",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universiti Teknologi Malaysia Kuala Lumpur",
+            "affiliation-city": "Kuala Lumpur",
+            "affiliation-country": "Malaysia"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700181106",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888270037"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888270037?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84888270037&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84888270037&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84888270037",
+        "dc:identifier": "SCOPUS_ID:84888270037",
+        "eid": "2-s2.0-84888270037",
+        "dc:title": "Virtual touring: A content based image retrieval application",
+        "dc:creator": "Iliadis M.",
+        "prism:publicationName": "Electronic Proceedings of the 2013 IEEE International Conference on Multimedia and Expo Workshops, ICMEW 2013",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479916047"
+          }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2013-11-29",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/ICMEW.2013.6618285",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Northwestern University",
+            "affiliation-city": "Evanston",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6618285",
+        "source-id": "21100268396",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888260952"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888260952?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84888260952&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84888260952&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84888260952",
+        "dc:identifier": "SCOPUS_ID:84888260952",
+        "eid": "2-s2.0-84888260952",
+        "dc:title": "Automatic pain intensity estimation with heteroscedastic conditional ordinal random fields",
+        "dc:creator": "Rudovic O.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783642419386"
+          }
+        ],
+        "prism:volume": "8034 LNCS",
+        "prism:issueIdentifier": "PART 2",
+        "prism:pageRange": "234-243",
+        "prism:coverDate": "2013-11-29",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-642-41939-3_23",
+        "citedby-count": "49",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Imperial College London",
+            "affiliation-city": "London",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888252587"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888252587?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84888252587&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84888252587&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84888252587",
+        "dc:identifier": "SCOPUS_ID:84888252587",
+        "eid": "2-s2.0-84888252587",
+        "dc:title": "Human activity recognition using hierarchically-mined feature constellations",
+        "dc:creator": "Oikonomopoulos A.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783642419133"
+          }
+        ],
+        "prism:volume": "8033 LNCS",
+        "prism:issueIdentifier": "PART 1",
+        "prism:pageRange": "150-159",
+        "prism:coverDate": "2013-11-29",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-642-41914-0_16",
+        "citedby-count": "3",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Imperial College London",
+            "affiliation-city": "London",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888252387"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888252387?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84888252387&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84888252387&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84888252387",
+        "dc:identifier": "SCOPUS_ID:84888252387",
+        "eid": "2-s2.0-84888252387",
+        "dc:title": "Counting pedestrians in bidirectional scenarios using zenithal depth images",
+        "dc:creator": "Vera P.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783642389887"
+          }
+        ],
+        "prism:volume": "7914 LNCS",
+        "prism:pageRange": "84-93",
+        "prism:coverDate": "2013-11-29",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-642-38989-4_9",
+        "citedby-count": "6",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Instituto Polit\u00e9cnico Nacional",
+            "affiliation-city": "Mexico",
+            "affiliation-country": "Mexico"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfree2read"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Bronze"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888240571"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888240571?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84888240571&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84888240571&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84888240571",
+        "dc:identifier": "SCOPUS_ID:84888240571",
+        "eid": "2-s2.0-84888240571",
+        "dc:title": "Shared Gaussian process latent variable model for multi-view facial expression recognition",
+        "dc:creator": "Eleftheriadis S.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783642419133"
+          }
+        ],
+        "prism:volume": "8033 LNCS",
+        "prism:issueIdentifier": "PART 1",
+        "prism:pageRange": "527-538",
+        "prism:coverDate": "2013-11-29",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-642-41914-0_52",
+        "citedby-count": "16",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Imperial College London",
+            "affiliation-city": "London",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888219995"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84888219995?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84888219995&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84888219995&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84888219995",
+        "dc:identifier": "SCOPUS_ID:84888219995",
+        "eid": "2-s2.0-84888219995",
+        "dc:title": "A vision-based algorithm for parking lot utilization evaluation using conditional random fields",
+        "dc:creator": "Fabian T.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783642419386"
+          }
+        ],
+        "prism:volume": "8034 LNCS",
+        "prism:issueIdentifier": "PART 2",
+        "prism:pageRange": "222-233",
+        "prism:coverDate": "2013-11-29",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-642-41939-3_22",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "VSB \u2013 Technical University of Ostrava",
+            "affiliation-city": "Ostrava",
+            "affiliation-country": "Czech Republic"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887581920"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887581920?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84887581920&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84887581920&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84887581920",
+        "dc:identifier": "SCOPUS_ID:84887581920",
+        "eid": "2-s2.0-84887581920",
+        "dc:title": "Gaze locking: Passive eye contact detection for human-object interaction",
+        "dc:creator": "Smith B.A.",
+        "prism:publicationName": "UIST 2013 - Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781450322683"
+          }
+        ],
+        "prism:pageRange": "271-280",
+        "prism:coverDate": "2013-11-20",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1145/2501988.2501994",
+        "citedby-count": "218",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Columbia University",
+            "affiliation-city": "New York",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100266905",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887566376"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887566376?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84887566376&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84887566376&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84887566376",
+        "dc:identifier": "SCOPUS_ID:84887566376",
+        "eid": "2-s2.0-84887566376",
+        "dc:title": "Spike-Based probabilistic inference in analog graphical models using interspike-interval coding",
+        "dc:creator": "Steimer A.",
+        "prism:publicationName": "Neural Computation",
+        "prism:issn": "08997667",
+        "prism:eIssn": "1530888X",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "2303-2354",
+        "prism:coverDate": "2013-11-19",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1162/NECO_a_00477",
+        "citedby-count": "9",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e4t Z\u00fcrich",
+            "affiliation-city": "Zurich",
+            "affiliation-country": "Switzerland"
+          }
+        ],
+        "pubmed-id": "23663144",
+        "prism:aggregationType": "Journal",
+        "subtype": "le",
+        "subtypeDescription": "Letter",
+        "source-id": "24782",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887418625"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887418625?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84887418625&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84887418625&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84887418625",
+        "dc:identifier": "SCOPUS_ID:84887418625",
+        "eid": "2-s2.0-84887418625",
+        "dc:title": "Human activities recognition using depth images",
+        "dc:creator": "Gupta R.",
+        "prism:publicationName": "MM 2013 - Proceedings of the 2013 ACM Multimedia Conference",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781450324045"
+          }
+        ],
+        "prism:pageRange": "283-292",
+        "prism:coverDate": "2013-11-18",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1145/2502081.2502099",
+        "citedby-count": "53",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Nanyang Technological University",
+            "affiliation-city": "Singapore City",
+            "affiliation-country": "Singapore"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100266699",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887400741"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887400741?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84887400741&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84887400741&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84887400741",
+        "dc:identifier": "SCOPUS_ID:84887400741",
+        "eid": "2-s2.0-84887400741",
+        "dc:title": "Motionlets: Mid-level 3D parts for human motion recognition",
+        "dc:creator": "Wang L.M.",
+        "prism:publicationName": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "prism:issn": "10636919",
+        "prism:pageRange": "2674-2681",
+        "prism:coverDate": "2013-11-15",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CVPR.2013.345",
+        "citedby-count": "172",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Shenzhen Institute of Advanced Technology",
+            "affiliation-city": "Shenzhen",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Chinese University of Hong Kong",
+            "affiliation-city": "Hong Kong",
+            "affiliation-country": "Hong Kong"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6619189",
+        "source-id": "24212",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887396124"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887396124?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84887396124&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84887396124&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84887396124",
+        "dc:identifier": "SCOPUS_ID:84887396124",
+        "eid": "2-s2.0-84887396124",
+        "dc:title": "Improving the visual comprehension of point sets",
+        "dc:creator": "Katz S.",
+        "prism:publicationName": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "prism:issn": "10636919",
+        "prism:pageRange": "121-128",
+        "prism:coverDate": "2013-11-15",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CVPR.2013.23",
+        "citedby-count": "16",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Technion - Israel Institute of Technology",
+            "affiliation-city": "Haifa",
+            "affiliation-country": "Israel"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6618867",
+        "source-id": "24212",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887391547"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887391547?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84887391547&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84887391547&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84887391547",
+        "dc:identifier": "SCOPUS_ID:84887391547",
+        "eid": "2-s2.0-84887391547",
+        "dc:title": "Online learning of single-andmultivalued functions with an infinite mixture of linear experts",
+        "dc:creator": "Damas B.",
+        "prism:publicationName": "Neural Computation",
+        "prism:issn": "08997667",
+        "prism:eIssn": "1530888X",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "3044-3091",
+        "prism:coverDate": "2013-11-15",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1162/NECO_a_00510",
+        "citedby-count": "8",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Instituto Superior T\u00e9cnico",
+            "affiliation-city": "Lisbon",
+            "affiliation-country": "Portugal"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Instituto Polit\u00e9cnico de Set\u00fabal",
+            "affiliation-city": "Setubal",
+            "affiliation-country": "Portugal"
+          }
+        ],
+        "pubmed-id": "24001344",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24782",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887385689"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84887385689?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84887385689&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84887385689&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84887385689",
+        "dc:identifier": "SCOPUS_ID:84887385689",
+        "eid": "2-s2.0-84887385689",
+        "dc:title": "Five shades of grey for fast and reliable camera pose estimation",
+        "dc:creator": "Herout A.",
+        "prism:publicationName": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "prism:issn": "10636919",
+        "prism:pageRange": "1384-1390",
+        "prism:coverDate": "2013-11-15",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CVPR.2013.182",
+        "citedby-count": "18",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Brno University of Technology, Faculty of Information Technology",
+            "affiliation-city": "Brno",
+            "affiliation-country": "Czech Republic"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6619026",
+        "source-id": "24212",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1593 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "502",
+    "opensearch:startIndex": "75",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "COMP|\"Computer Vision and Pattern Recognition\"+OR+\"Computer Vision and Image Recognition\"",
+      "@startPage": "75"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=75&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "prev",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=50&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=100&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=477&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2012-2013",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84885394674"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84885394674?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84885394674&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84885394674&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84885394674",
+        "dc:identifier": "SCOPUS_ID:84885394674",
+        "eid": "2-s2.0-84885394674",
+        "dc:title": "Overview of Eye tracking Datasets",
+        "dc:creator": "Winkler S.",
+        "prism:publicationName": "2013 5th International Workshop on Quality of Multimedia Experience, QoMEX 2013 - Proceedings",
+        "prism:pageRange": "212-217",
+        "prism:coverDate": "2013-10-17",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/QoMEX.2013.6603239",
+        "citedby-count": "52",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Illinois Urbana-Champaign",
+            "affiliation-city": "Urbana",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6603239",
+        "source-id": "21100260914",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884971687"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884971687?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884971687&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884971687&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884971687",
+        "dc:identifier": "SCOPUS_ID:84884971687",
+        "eid": "2-s2.0-84884971687",
+        "dc:title": "Design of a chromatic 3d camera with an end-to-end performance model approach",
+        "dc:creator": "Trouve P.",
+        "prism:publicationName": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops",
+        "prism:issn": "21607508",
+        "prism:eIssn": "21607516",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780769549903"
+          }
+        ],
+        "prism:pageRange": "953-960",
+        "prism:coverDate": "2013-10-08",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CVPRW.2013.140",
+        "citedby-count": "15",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "ONERA Office National d'Etudes et Recherches Aerospatiales",
+            "affiliation-city": "Palaiseau",
+            "affiliation-country": "France"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6595985",
+        "source-id": "20100195041",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884965600"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884965600?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884965600&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884965600&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884965600",
+        "dc:identifier": "SCOPUS_ID:84884965600",
+        "eid": "2-s2.0-84884965600",
+        "dc:title": "GPU-SHOT: Parallel optimization for real-time 3D local description",
+        "dc:creator": "Palossi D.",
+        "prism:publicationName": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops",
+        "prism:issn": "21607508",
+        "prism:eIssn": "21607516",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780769549903"
+          }
+        ],
+        "prism:pageRange": "584-591",
+        "prism:coverDate": "2013-10-08",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CVPRW.2013.88",
+        "citedby-count": "8",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Alma Mater Studiorum Universit\u00e0 di Bologna",
+            "affiliation-city": "Bologna",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6595932",
+        "source-id": "20100195041",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884965434"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884965434?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884965434&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884965434&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884965434",
+        "dc:identifier": "SCOPUS_ID:84884965434",
+        "eid": "2-s2.0-84884965434",
+        "dc:title": "3D hand gesture recognition using the hough transform",
+        "dc:creator": "Oprisescu S.",
+        "prism:publicationName": "Advances in Electrical and Computer Engineering",
+        "prism:issn": "15827445",
+        "prism:eIssn": "18447600",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "71-76",
+        "prism:coverDate": "2013-10-08",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.4316/aece.2013.03012",
+        "citedby-count": "4",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University Politehnica of Bucharest",
+            "affiliation-city": "Bucharest",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18000156702",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884957855"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884957855?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884957855&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884957855&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884957855",
+        "dc:identifier": "SCOPUS_ID:84884957855",
+        "eid": "2-s2.0-84884957855",
+        "dc:title": "Decoupling sparse coding with fusion of fisher vectors and scalable SVMs for large-scale visual recognition",
+        "dc:creator": "Ji Z.",
+        "prism:publicationName": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops",
+        "prism:issn": "21607508",
+        "prism:eIssn": "21607516",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780769549903"
+          }
+        ],
+        "prism:pageRange": "450-457",
+        "prism:coverDate": "2013-10-08",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CVPRW.2013.74",
+        "citedby-count": "5",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Samsung Group",
+            "affiliation-city": "Suwon",
+            "affiliation-country": "South Korea"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6595913",
+        "source-id": "20100195041",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884929692"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884929692?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884929692&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884929692&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884929692",
+        "dc:identifier": "SCOPUS_ID:84884929692",
+        "eid": "2-s2.0-84884929692",
+        "dc:title": "Vision-based lane analysis: Exploration of issues and approaches for embedded realization",
+        "dc:creator": "Satzoda R.K.",
+        "prism:publicationName": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops",
+        "prism:issn": "21607508",
+        "prism:eIssn": "21607516",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780769549903"
+          }
+        ],
+        "prism:pageRange": "604-609",
+        "prism:coverDate": "2013-10-08",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CVPRW.2013.91",
+        "citedby-count": "30",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of California, San Diego",
+            "affiliation-city": "San Diego",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6595935",
+        "source-id": "20100195041",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884917564"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884917564?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884917564&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884917564&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884917564",
+        "dc:identifier": "SCOPUS_ID:84884917564",
+        "eid": "2-s2.0-84884917564",
+        "dc:title": "A semi-automatic methodology for facial landmark annotation",
+        "dc:creator": "Sagonas C.",
+        "prism:publicationName": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops",
+        "prism:issn": "21607508",
+        "prism:eIssn": "21607516",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780769549903"
+          }
+        ],
+        "prism:pageRange": "896-903",
+        "prism:coverDate": "2013-10-08",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CVPRW.2013.132",
+        "citedby-count": "328",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Imperial College London",
+            "affiliation-city": "London",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6595977",
+        "source-id": "20100195041",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884874441"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884874441?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884874441&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884874441&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884874441",
+        "dc:identifier": "SCOPUS_ID:84884874441",
+        "eid": "2-s2.0-84884874441",
+        "dc:title": "Next generation of physical training environments: Bringing in sensor systems and virtual reality technologies",
+        "dc:creator": "Sadagic A.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783642394539"
+          }
+        ],
+        "prism:volume": "8027 LNAI",
+        "prism:pageRange": "717-726",
+        "prism:coverDate": "2013-10-07",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-642-39454-6_77",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Naval Postgraduate School",
+            "affiliation-city": "Monterey",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884853687"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884853687?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884853687&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884853687&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884853687",
+        "dc:identifier": "SCOPUS_ID:84884853687",
+        "eid": "2-s2.0-84884853687",
+        "dc:title": "A hierarchical behavior analysis approach for automated trainee performance evaluation in training ranges",
+        "dc:creator": "Khan S.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783642394539"
+          }
+        ],
+        "prism:volume": "8027 LNAI",
+        "prism:pageRange": "60-69",
+        "prism:coverDate": "2013-10-07",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1007/978-3-642-39454-6_7",
+        "citedby-count": "4",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "SRI International",
+            "affiliation-city": "Menlo Park",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfree2read"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Bronze"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884830597"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84884830597?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84884830597&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84884830597&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84884830597",
+        "dc:identifier": "SCOPUS_ID:84884830597",
+        "eid": "2-s2.0-84884830597",
+        "dc:title": "An advanced method for human body detection",
+        "dc:creator": "Li F.X.",
+        "prism:publicationName": "Applied Mechanics and Materials",
+        "prism:issn": "16609336",
+        "prism:eIssn": "16627482",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783037858202"
+          }
+        ],
+        "prism:volume": "380-384",
+        "prism:pageRange": "3886-3889",
+        "prism:coverDate": "2013-10-07",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.4028/www.scientific.net/AMM.380-384.3886",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Beijing Institute of Technology",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "4700151914",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84890166999"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84890166999?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84890166999&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84890166999&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84890166999",
+        "dc:identifier": "SCOPUS_ID:84890166999",
+        "eid": "2-s2.0-84890166999",
+        "dc:title": "Coarse-to-fine hair segmentation method",
+        "dc:creator": "Wang D.",
+        "prism:publicationName": "Ruan Jian Xue Bao/Journal of Software",
+        "prism:issn": "10009825",
+        "prism:volume": "24",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "2391-2404",
+        "prism:coverDate": "2013-10-01",
+        "prism:coverDisplayDate": "October 2013",
+        "prism:doi": "10.3724/SP.J.1001.2013.04423",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Institute of Computing Technology Chinese Academy of Sciences",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "University of Chinese Academy of Sciences",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19913",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878015848"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878015848?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84878015848&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84878015848&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0031320313001374"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84878015848",
+        "dc:identifier": "SCOPUS_ID:84878015848",
+        "eid": "2-s2.0-84878015848",
+        "dc:title": "Visual saliency detection using information divergence",
+        "dc:creator": "Hou W.",
+        "prism:publicationName": "Pattern Recognition",
+        "prism:issn": "00313203",
+        "prism:volume": "46",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "2658-2669",
+        "prism:coverDate": "2013-10-01",
+        "prism:coverDisplayDate": "October 2013",
+        "prism:doi": "10.1016/j.patcog.2013.03.008",
+        "pii": "S0031320313001374",
+        "citedby-count": "37",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Xidian University",
+            "affiliation-city": "Xi'an",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24823",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878013464"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878013464?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84878013464&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84878013464&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0031320313001453"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84878013464",
+        "dc:identifier": "SCOPUS_ID:84878013464",
+        "eid": "2-s2.0-84878013464",
+        "dc:title": "MLRank: Multi-correlation Learning to Rank for image annotation",
+        "dc:creator": "Li Z.",
+        "prism:publicationName": "Pattern Recognition",
+        "prism:issn": "00313203",
+        "prism:volume": "46",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "2700-2710",
+        "prism:coverDate": "2013-10-01",
+        "prism:coverDisplayDate": "October 2013",
+        "prism:doi": "10.1016/j.patcog.2013.03.016",
+        "pii": "S0031320313001453",
+        "citedby-count": "37",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Institute of Automation Chinese Academy of Sciences",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24823",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878013436"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878013436?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84878013436&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84878013436&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0031320313001167"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84878013436",
+        "dc:identifier": "SCOPUS_ID:84878013436",
+        "eid": "2-s2.0-84878013436",
+        "dc:title": "Discriminative histograms of local dominant orientation (D-HLDO) for biometric image feature extraction",
+        "dc:creator": "Qian J.",
+        "prism:publicationName": "Pattern Recognition",
+        "prism:issn": "00313203",
+        "prism:volume": "46",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "2724-2739",
+        "prism:coverDate": "2013-10-01",
+        "prism:coverDisplayDate": "October 2013",
+        "prism:doi": "10.1016/j.patcog.2013.03.005",
+        "pii": "S0031320313001167",
+        "citedby-count": "45",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Nanjing University of Science and Technology",
+            "affiliation-city": "Nanjing",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24823",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878506948"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878506948?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84878506948&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84878506948&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S092523121200745X"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84878506948",
+        "dc:identifier": "SCOPUS_ID:84878506948",
+        "eid": "2-s2.0-84878506948",
+        "dc:title": "Designing palmprint based recognition system using local structure tensor and force field transformation for human identification",
+        "dc:creator": "Tiwari K.",
+        "prism:publicationName": "Neurocomputing",
+        "prism:issn": "09252312",
+        "prism:eIssn": "18728286",
+        "prism:volume": "116",
+        "prism:pageRange": "222-230",
+        "prism:coverDate": "2013-09-20",
+        "prism:coverDisplayDate": "20 September 2013",
+        "prism:doi": "10.1016/j.neucom.2011.12.065",
+        "pii": "S092523121200745X",
+        "citedby-count": "26",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Indian Institute of Technology Kanpur",
+            "affiliation-city": "Kanpur",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24807",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883372036"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883372036?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84883372036&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84883372036&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84883372036",
+        "dc:identifier": "SCOPUS_ID:84883372036",
+        "eid": "2-s2.0-84883372036",
+        "dc:title": "Continuous pose estimation in 2D images at instance and category levels",
+        "dc:creator": "Teney D.",
+        "prism:publicationName": "Proceedings - 2013 International Conference on Computer and Robot Vision, CRV 2013",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780769549835"
+          }
+        ],
+        "prism:pageRange": "121-127",
+        "prism:coverDate": "2013-09-09",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CRV.2013.34",
+        "citedby-count": "8",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e9 de Li\u00e8ge",
+            "affiliation-city": "Liege",
+            "affiliation-country": "Belgium"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6569193",
+        "source-id": "21100255495",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883365425"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883365425?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84883365425&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84883365425&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84883365425",
+        "dc:identifier": "SCOPUS_ID:84883365425",
+        "eid": "2-s2.0-84883365425",
+        "dc:title": "Inverted indexing in image fragment retrieval using huge keypoint-based vocabularies",
+        "dc:creator": "Sluzek A.",
+        "prism:publicationName": "Proceedings - International Workshop on Content-Based Multimedia Indexing",
+        "prism:issn": "19493991",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479909551"
+          }
+        ],
+        "prism:pageRange": "167-172",
+        "prism:coverDate": "2013-09-09",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/CBMI.2013.6576576",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Khalifa University of Science and Technology",
+            "affiliation-city": "Abu Dhabi",
+            "affiliation-country": "United Arab Emirates"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6576576",
+        "source-id": "19700180519",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883258607"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883258607?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84883258607&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84883258607&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84883258607",
+        "dc:identifier": "SCOPUS_ID:84883258607",
+        "eid": "2-s2.0-84883258607",
+        "dc:title": "Volumetric shape grammars for image segmentation and shape estimation",
+        "dc:creator": "Mahfoud E.",
+        "prism:publicationName": "Conference Proceedings - IEEE SOUTHEASTCON",
+        "prism:issn": "07347502",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479900527"
+          }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2013-09-04",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/SECON.2013.6567386",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "The University of North Carolina at Charlotte",
+            "affiliation-city": "Charlotte",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6567386",
+        "source-id": "17317",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883253175"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883253175?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84883253175&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84883253175&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84883253175",
+        "dc:identifier": "SCOPUS_ID:84883253175",
+        "eid": "2-s2.0-84883253175",
+        "dc:title": "Using a MAP-MRF model to improve 3D mesh segmentation algorithms",
+        "dc:creator": "Longjiang E.",
+        "prism:publicationName": "Conference Proceedings - IEEE SOUTHEASTCON",
+        "prism:issn": "07347502",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479900527"
+          }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2013-09-04",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1109/SECON.2013.6567483",
+        "citedby-count": "4",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "The University of North Carolina at Charlotte",
+            "affiliation-city": "Charlotte",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "6567483",
+        "source-id": "17317",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883195208"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883195208?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84883195208&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84883195208&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84883195208",
+        "dc:identifier": "SCOPUS_ID:84883195208",
+        "eid": "2-s2.0-84883195208",
+        "dc:title": "Closed contour specular reflection segmentation in laparoscopic images",
+        "dc:creator": "Marcinczak J.M.",
+        "prism:publicationName": "International Journal of Biomedical Imaging",
+        "prism:issn": "16874188",
+        "prism:eIssn": "16874196",
+        "prism:volume": "2013",
+        "prism:pageRange": null,
+        "prism:coverDate": "2013-09-03",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1155/2013/593183",
+        "citedby-count": "17",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Hamburg University of Technology",
+            "affiliation-city": "Hamburg",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "593183",
+        "source-id": "4000150002",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryvor"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84885662327"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84885662327?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84885662327&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84885662327&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84885662327",
+        "dc:identifier": "SCOPUS_ID:84885662327",
+        "eid": "2-s2.0-84885662327",
+        "dc:title": "Greedy feature selection for subspace clustering",
+        "dc:creator": "Dyer E.",
+        "prism:publicationName": "Journal of Machine Learning Research",
+        "prism:issn": "15324435",
+        "prism:eIssn": "15337928",
+        "prism:volume": "14",
+        "prism:pageRange": "2487-2517",
+        "prism:coverDate": "2013-09-01",
+        "prism:coverDisplayDate": "September 2013",
+        "citedby-count": "123",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Rice University",
+            "affiliation-city": "Houston",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20969",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84881615127"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84881615127?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84881615127&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84881615127&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84881615127",
+        "dc:identifier": "SCOPUS_ID:84881615127",
+        "eid": "2-s2.0-84881615127",
+        "dc:title": "Score level fusion of voting strategy of geometric hashing and SURF for an efficient palmprint-based identification",
+        "dc:creator": "Badrinath G.",
+        "prism:publicationName": "Journal of Real-Time Image Processing",
+        "prism:issn": "18618200",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "265-284",
+        "prism:coverDate": "2013-09-01",
+        "prism:coverDisplayDate": "September 2013",
+        "prism:doi": "10.1007/s11554-011-0229-2",
+        "citedby-count": "16",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Indian Institute of Technology Kanpur",
+            "affiliation-city": "Kanpur",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "4900152415",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84881544631"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84881544631?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84881544631&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84881544631&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84881544631",
+        "dc:identifier": "SCOPUS_ID:84881544631",
+        "eid": "2-s2.0-84881544631",
+        "dc:title": "Novel mixture model-based approaches for person verification using multimodal biometrics",
+        "dc:creator": "Raghavendra R.",
+        "prism:publicationName": "Signal, Image and Video Processing",
+        "prism:issn": "18631703",
+        "prism:eIssn": "18631711",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1015-1028",
+        "prism:coverDate": "2013-09-01",
+        "prism:coverDisplayDate": "September 2013",
+        "prism:doi": "10.1007/s11760-012-0294-4",
+        "citedby-count": "5",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Rajeev Institute of Technology",
+            "affiliation-city": "Hassan",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "6200180165",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84880921237"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84880921237?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84880921237&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84880921237&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84880921237",
+        "dc:identifier": "SCOPUS_ID:84880921237",
+        "eid": "2-s2.0-84880921237",
+        "dc:title": "Histogram-based optical flow for motion estimation in ultrasound imaging",
+        "dc:creator": "Tenbrinck D.",
+        "prism:publicationName": "Journal of Mathematical Imaging and Vision",
+        "prism:issn": "09249907",
+        "prism:volume": "47",
+        "prism:issueIdentifier": "1-2",
+        "prism:pageRange": "138-150",
+        "prism:coverDate": "2013-09-01",
+        "prism:coverDisplayDate": "September 2013",
+        "prism:doi": "10.1007/s10851-012-0398-z",
+        "citedby-count": "17",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster",
+            "affiliation-city": "Munster",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28501",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84877086364"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84877086364?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84877086364&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84877086364&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1053811913003455"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84877086364",
+        "dc:identifier": "SCOPUS_ID:84877086364",
+        "eid": "2-s2.0-84877086364",
+        "dc:title": "Surface fluid registration of conformal representation: Application to detect disease burden and genetic influence on hippocampus",
+        "dc:creator": "Shi J.",
+        "prism:publicationName": "NeuroImage",
+        "prism:issn": "10538119",
+        "prism:eIssn": "10959572",
+        "prism:volume": "78",
+        "prism:pageRange": "111-134",
+        "prism:coverDate": "2013-09-01",
+        "prism:coverDisplayDate": "September 2013",
+        "prism:doi": "10.1016/j.neuroimage.2013.04.018",
+        "pii": "S1053811913003455",
+        "citedby-count": "71",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "School of Computing, Informatics, and Decision Systems Engineering",
+            "affiliation-city": "Tempe",
+            "affiliation-country": "United States"
+          }
+        ],
+        "pubmed-id": "23587689",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17495",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

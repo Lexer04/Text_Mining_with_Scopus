@@ -1,0 +1,1596 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "1668",
+    "opensearch:startIndex": "125",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "COMP|\"Computer Vision and Pattern Recognition\"+OR+\"Computer Vision and Image Recognition\"",
+      "@startPage": "125"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=125&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2022-2023",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2022-2023",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "prev",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=100&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2022-2023",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=150&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2022-2023",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=1643&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2022-2023",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85141465393"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85141465393?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85141465393&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85141465393&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85141465393",
+        "dc:identifier": "SCOPUS_ID:85141465393",
+        "eid": "2-s2.0-85141465393",
+        "dc:title": "Foreground Fusion-Based Liquefied Natural Gas Leak Detection Framework From Surveillance Thermal Imaging",
+        "dc:creator": "Bin J.",
+        "prism:publicationName": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+        "prism:eIssn": "2471285X",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1151-1162",
+        "prism:coverDate": "2023-08-01",
+        "prism:coverDisplayDate": "1 August 2023",
+        "prism:doi": "10.1109/TETCI.2022.3214826",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of British Columbia Okanagan",
+            "affiliation-city": "Kelowna",
+            "affiliation-country": "Canada"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100976672",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123725815"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123725815?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85123725815&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85123725815&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85123725815",
+        "dc:identifier": "SCOPUS_ID:85123725815",
+        "eid": "2-s2.0-85123725815",
+        "dc:title": "RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning",
+        "dc:creator": "Yuan Z.",
+        "prism:publicationName": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+        "prism:eIssn": "2471285X",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1010-1024",
+        "prism:coverDate": "2023-08-01",
+        "prism:coverDisplayDate": "1 August 2023",
+        "prism:doi": "10.1109/TETCI.2021.3139802",
+        "citedby-count": "4",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Southern University of Science and Technology",
+            "affiliation-city": "Shenzhen",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100976672",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123308513"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123308513?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85123308513&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85123308513&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85123308513",
+        "dc:identifier": "SCOPUS_ID:85123308513",
+        "eid": "2-s2.0-85123308513",
+        "dc:title": "Structural Parameter Space Exploration for Reinforcement Learning via a Matrix Variate Distribution",
+        "dc:creator": "Wang S.",
+        "prism:publicationName": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+        "prism:eIssn": "2471285X",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1025-1035",
+        "prism:coverDate": "2023-08-01",
+        "prism:coverDisplayDate": "1 August 2023",
+        "prism:doi": "10.1109/TETCI.2022.3140380",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Science and Technology of China",
+            "affiliation-city": "Hefei",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100976672",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85112831828"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85112831828?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85112831828&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85112831828&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85112831828",
+        "dc:identifier": "SCOPUS_ID:85112831828",
+        "eid": "2-s2.0-85112831828",
+        "dc:title": "Innovative chest X-ray image recognition technique and its economic value",
+        "dc:creator": "Guo J.",
+        "prism:publicationName": "Personal and Ubiquitous Computing",
+        "prism:issn": "16174909",
+        "prism:eIssn": "16174917",
+        "prism:volume": "27",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1551-1559",
+        "prism:coverDate": "2023-08-01",
+        "prism:coverDisplayDate": "August 2023",
+        "prism:doi": "10.1007/s00779-021-01627-z",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Beijing Normal University",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22315",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85167536644"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85167536644?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85167536644&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85167536644&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85167536644",
+        "dc:identifier": "SCOPUS_ID:85167536644",
+        "eid": "2-s2.0-85167536644",
+        "dc:title": "A Survey on Automated Driving System Testing: Landscapes and Trends",
+        "dc:creator": "Tang S.",
+        "prism:publicationName": "ACM Transactions on Software Engineering and Methodology",
+        "prism:issn": "1049331X",
+        "prism:eIssn": "15577392",
+        "prism:volume": "32",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-24",
+        "prism:coverDisplayDate": "24 July 2023",
+        "prism:doi": "10.1145/3579642",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Science and Technology of China",
+            "affiliation-city": "Hefei",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "124",
+        "source-id": "18121",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85168015949"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85168015949?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85168015949&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85168015949&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85168015949",
+        "dc:identifier": "SCOPUS_ID:85168015949",
+        "eid": "2-s2.0-85168015949",
+        "dc:title": "Single Image Neural Material Relighting",
+        "dc:creator": "Bieron J.",
+        "prism:publicationName": "Proceedings - SIGGRAPH 2023 Conference Papers",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9798400701597"
+          }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-23",
+        "prism:coverDisplayDate": "23 July 2023",
+        "prism:doi": "10.1145/3588432.3591515",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "William &amp; Mary",
+            "affiliation-city": "Williamsburg",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "80",
+        "source-id": "21101171774",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85168758722"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85168758722?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85168758722&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85168758722&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85168758722",
+        "dc:identifier": "SCOPUS_ID:85168758722",
+        "eid": "2-s2.0-85168758722",
+        "dc:title": "Flydeling: Streamlined Performance Models for Hardware Acceleration of CNNs through System Identification",
+        "dc:creator": "Carballo-Hern\u00e1ndez W.",
+        "prism:publicationName": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems",
+        "prism:issn": "23763639",
+        "prism:eIssn": "23763647",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-18",
+        "prism:coverDisplayDate": "18 July 2023",
+        "prism:doi": "10.1145/3594870",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e9 Clermont Auvergne",
+            "affiliation-city": "Clermont-Ferrand",
+            "affiliation-country": "France"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e9 de Rennes",
+            "affiliation-city": "Rennes",
+            "affiliation-country": "France"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "7",
+        "source-id": "21100934924",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85168807349"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85168807349?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85168807349&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85168807349&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85168807349",
+        "dc:identifier": "SCOPUS_ID:85168807349",
+        "eid": "2-s2.0-85168807349",
+        "dc:title": "Content-based and Knowledge-enriched Representations for Classification Across Modalities: A Survey",
+        "dc:creator": "Pittaras N.",
+        "prism:publicationName": "ACM Computing Surveys",
+        "prism:issn": "03600300",
+        "prism:eIssn": "15577341",
+        "prism:volume": "55",
+        "prism:issueIdentifier": "14 s",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-17",
+        "prism:coverDisplayDate": "17 July 2023",
+        "prism:doi": "10.1145/3583682",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "National and Kapodistrian University of Athens",
+            "affiliation-city": "Athens",
+            "affiliation-country": "Greece"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Institute of Informatics &amp; Telecommunications",
+            "affiliation-city": "Athens",
+            "affiliation-country": "Greece"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "312",
+        "source-id": "23038",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfree2read"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Bronze"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85151355148"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85151355148?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85151355148&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85151355148&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85151355148",
+        "dc:identifier": "SCOPUS_ID:85151355148",
+        "eid": "2-s2.0-85151355148",
+        "dc:title": "Mean Teacher-Based Cross-Domain Activity Recognition Using WiFi Signals",
+        "dc:creator": "Xiao C.",
+        "prism:publicationName": "IEEE Internet of Things Journal",
+        "prism:eIssn": "23274662",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "14",
+        "prism:pageRange": "12787-12797",
+        "prism:coverDate": "2023-07-15",
+        "prism:coverDisplayDate": "15 July 2023",
+        "prism:doi": "10.1109/JIOT.2023.3256324",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Henan University",
+            "affiliation-city": "Kaifeng",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100338350",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85147216799"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85147216799?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85147216799&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85147216799&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85147216799",
+        "dc:identifier": "SCOPUS_ID:85147216799",
+        "eid": "2-s2.0-85147216799",
+        "dc:title": "Reducing Computational Complexity of Neural Networks in Optical Channel Equalization: From Concepts to Implementation",
+        "dc:creator": "Freire P.J.",
+        "prism:publicationName": "Journal of Lightwave Technology",
+        "prism:issn": "07338724",
+        "prism:eIssn": "15582213",
+        "prism:volume": "41",
+        "prism:issueIdentifier": "14",
+        "prism:pageRange": "4557-4581",
+        "prism:coverDate": "2023-07-15",
+        "prism:coverDisplayDate": "15 July 2023",
+        "prism:doi": "10.1109/JLT.2023.3234327",
+        "citedby-count": "4",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Aston University",
+            "affiliation-city": "Birmingham",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12178",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherhybridgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Hybrid Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85145038477"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85145038477?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85145038477&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85145038477&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85145038477",
+        "dc:identifier": "SCOPUS_ID:85145038477",
+        "eid": "2-s2.0-85145038477",
+        "dc:title": "A novel residual shrinkage block-based convolutional neural network for improving the recognition of motor imagery EEG signals",
+        "dc:creator": "Huang J.",
+        "prism:publicationName": "International Journal of Intelligent Computing and Cybernetics",
+        "prism:issn": "1756378X",
+        "prism:eIssn": "17563798",
+        "prism:volume": "16",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "420-442",
+        "prism:coverDate": "2023-07-12",
+        "prism:coverDisplayDate": "12 July 2023",
+        "prism:doi": "10.1108/IJICC-05-2022-0130",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Longyan University",
+            "affiliation-city": "Longyan",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182406",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85173267333"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85173267333?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85173267333&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85173267333&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85173267333",
+        "dc:identifier": "SCOPUS_ID:85173267333",
+        "eid": "2-s2.0-85173267333",
+        "dc:title": "Reversible and colorable deep image steganography with large capacity",
+        "dc:creator": "Wu L.",
+        "prism:publicationName": "Journal of Electronic Imaging",
+        "prism:issn": "10179909",
+        "prism:eIssn": "1560229X",
+        "prism:volume": "32",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "1 July 2023",
+        "prism:doi": "10.1117/1.JEI.32.4.043006",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Fuzhou University",
+            "affiliation-city": "Fuzhou",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "043006",
+        "source-id": "25978",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85171170098"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85171170098?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85171170098&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85171170098&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85171170098",
+        "dc:identifier": "SCOPUS_ID:85171170098",
+        "eid": "2-s2.0-85171170098",
+        "dc:title": "Survey on Magnetic Resonance Image Denoising",
+        "dc:creator": "Pu X.",
+        "prism:publicationName": "Dianzi Keji Daxue Xuebao/Journal of the University of Electronic Science and Technology of China",
+        "prism:issn": "10010548",
+        "prism:volume": "52",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "568-577",
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "July 2023",
+        "prism:doi": "10.12178/1001-0548.2022248",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Electronic Science and Technology of China",
+            "affiliation-city": "Chengdu",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24283",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85166243755"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85166243755?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85166243755&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85166243755&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85166243755",
+        "dc:identifier": "SCOPUS_ID:85166243755",
+        "eid": "2-s2.0-85166243755",
+        "dc:title": "FedDAD: Solving the Islanding Problem of SAR Image Aircraft Detection Data",
+        "dc:creator": "Jia Z.",
+        "prism:publicationName": "Remote Sensing",
+        "prism:eIssn": "20724292",
+        "prism:volume": "15",
+        "prism:issueIdentifier": "14",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "July 2023",
+        "prism:doi": "10.3390/rs15143620",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Changsha University of Science and Technology",
+            "affiliation-city": "Changsha",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "3620",
+        "source-id": "86430",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85166102685"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85166102685?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85166102685&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85166102685&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85166102685",
+        "dc:identifier": "SCOPUS_ID:85166102685",
+        "eid": "2-s2.0-85166102685",
+        "dc:title": "Deepfake Speech Recognition and Detection",
+        "dc:creator": "Chang H.C.",
+        "prism:publicationName": "International Journal of Pattern Recognition and Artificial Intelligence",
+        "prism:issn": "02180014",
+        "prism:eIssn": "17936381",
+        "prism:volume": "37",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "1 July 2023",
+        "prism:doi": "10.1142/S0218001423500155",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "National Yunlin University of Science and Technology",
+            "affiliation-city": "Douliou",
+            "affiliation-country": "Taiwan"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2350015",
+        "source-id": "24310",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165946839"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165946839?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85165946839&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85165946839&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85165946839",
+        "dc:identifier": "SCOPUS_ID:85165946839",
+        "eid": "2-s2.0-85165946839",
+        "dc:title": "Comprehensive High-Quality Three-Dimensional Display System Based on a Simplified Light-Field Image Acquisition Method and a Full-Connected Deep Neural Network",
+        "dc:creator": "Erdenebat M.U.",
+        "prism:publicationName": "Sensors",
+        "prism:issn": "14248220",
+        "prism:volume": "23",
+        "prism:issueIdentifier": "14",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "July 2023",
+        "prism:doi": "10.3390/s23146245",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Chungbuk National University",
+            "affiliation-city": "Cheongju",
+            "affiliation-country": "South Korea"
+          }
+        ],
+        "pubmed-id": "37514540",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "6245",
+        "source-id": "130124",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryvor"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165233466"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165233466?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85165233466&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85165233466&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2352711023001620"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85165233466",
+        "dc:identifier": "SCOPUS_ID:85165233466",
+        "eid": "2-s2.0-85165233466",
+        "dc:title": "PocketFinderGNN: A manufacturing feature recognition software based on Graph Neural Networks (GNNs) using PyTorch Geometric and NetworkX",
+        "dc:creator": "Betkier I.",
+        "prism:publicationName": "SoftwareX",
+        "prism:eIssn": "23527110",
+        "prism:volume": "23",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "July 2023",
+        "prism:doi": "10.1016/j.softx.2023.101466",
+        "pii": "S2352711023001620",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Wojskowa Akademia Techniczna",
+            "affiliation-city": "Warsaw",
+            "affiliation-country": "Poland"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "101466",
+        "source-id": "21100422153",
+        "openaccess": "1",
+        "openaccessFlag": true
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85164107922"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85164107922?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85164107922&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85164107922&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85164107922",
+        "dc:identifier": "SCOPUS_ID:85164107922",
+        "eid": "2-s2.0-85164107922",
+        "dc:title": "Machine Learning for Early Detection of Alzheimer's Disease from Brain MRI",
+        "dc:creator": "Cherian I.",
+        "prism:publicationName": "International Journal of Intelligent Systems and Applications in Engineering",
+        "prism:eIssn": "21476799",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "7s",
+        "prism:pageRange": "36-43",
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "1 July 2023",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Krishna Institute of Medical Sciences Deemed University",
+            "affiliation-city": "Karad",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101021990",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85164015112"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85164015112?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85164015112&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85164015112&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85164015112",
+        "dc:identifier": "SCOPUS_ID:85164015112",
+        "eid": "2-s2.0-85164015112",
+        "dc:title": "Enhancing Ultrasound Image Quality Using Machine Learning Techniques",
+        "dc:creator": "Desai T.K.A.K.",
+        "prism:publicationName": "International Journal of Intelligent Systems and Applications in Engineering",
+        "prism:eIssn": "21476799",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "7s",
+        "prism:pageRange": "29-35",
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "1 July 2023",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Krishna Institute of Medical Sciences Deemed University",
+            "affiliation-city": "Karad",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101021990",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85161242064"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85161242064?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85161242064&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85161242064&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85161242064",
+        "dc:identifier": "SCOPUS_ID:85161242064",
+        "eid": "2-s2.0-85161242064",
+        "dc:title": "Machine learning based geometry reconstruction for quality control of laser welding processes",
+        "dc:creator": "Hartung J.",
+        "prism:publicationName": "Technisches Messen",
+        "prism:issn": "01718096",
+        "prism:eIssn": "21967113",
+        "prism:volume": "90",
+        "prism:issueIdentifier": "7-8",
+        "prism:pageRange": "512-521",
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "1 July 2023",
+        "prism:doi": "10.1515/teme-2023-0006",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "TRUMPF Group",
+            "affiliation-city": "Ditzingen",
+            "affiliation-country": "Germany"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Karlsruher Institut f\u00fcr Technologie",
+            "affiliation-city": "Karlsruhe",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "15592",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160428441"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160428441?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85160428441&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85160428441&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0262885623000835"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85160428441",
+        "dc:identifier": "SCOPUS_ID:85160428441",
+        "eid": "2-s2.0-85160428441",
+        "dc:title": "Extended neighborhood-based road and median filter for impulse noise removal from depth map",
+        "dc:creator": "Li S.",
+        "prism:publicationName": "Image and Vision Computing",
+        "prism:issn": "02628856",
+        "prism:volume": "135",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "July 2023",
+        "prism:doi": "10.1016/j.imavis.2023.104709",
+        "pii": "S0262885623000835",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Sichuan International Studies University",
+            "affiliation-city": "Chongqing",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "104709",
+        "source-id": "25549",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160076059"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160076059?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85160076059&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85160076059&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1296207423000584"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85160076059",
+        "dc:identifier": "SCOPUS_ID:85160076059",
+        "eid": "2-s2.0-85160076059",
+        "dc:title": "Multimodal knowledge graph construction of Chinese traditional operas and sentiment and genre recognition",
+        "dc:creator": "Fan T.",
+        "prism:publicationName": "Journal of Cultural Heritage",
+        "prism:issn": "12962074",
+        "prism:volume": "62",
+        "prism:pageRange": "32-44",
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "1 July 2023",
+        "prism:doi": "10.1016/j.culher.2023.05.003",
+        "pii": "S1296207423000584",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Nanjing University",
+            "affiliation-city": "Nanjing",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "University of Bern",
+            "affiliation-city": "Bern",
+            "affiliation-country": "Switzerland"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "57810",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160062385"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160062385?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85160062385&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85160062385&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85160062385",
+        "dc:identifier": "SCOPUS_ID:85160062385",
+        "eid": "2-s2.0-85160062385",
+        "dc:title": "MLP Based on Dissimilarity Features: An Application to Wood Sawing Simulator Metamodeling",
+        "dc:creator": "Chabanet S.",
+        "prism:publicationName": "SN Computer Science",
+        "prism:issn": "2662995X",
+        "prism:eIssn": "26618907",
+        "prism:volume": "4",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "July 2023",
+        "prism:doi": "10.1007/s42979-023-01852-8",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e9 de Lorraine",
+            "affiliation-city": "Nancy",
+            "affiliation-country": "France"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "408",
+        "source-id": "21101083109",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160016572"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160016572?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85160016572&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85160016572&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167865523001447"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85160016572",
+        "dc:identifier": "SCOPUS_ID:85160016572",
+        "eid": "2-s2.0-85160016572",
+        "dc:title": "Atmospheric turbulence removal with complex-valued convolutional neural network",
+        "dc:creator": "Anantrasirichai N.",
+        "prism:publicationName": "Pattern Recognition Letters",
+        "prism:issn": "01678655",
+        "prism:volume": "171",
+        "prism:pageRange": "69-75",
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "July 2023",
+        "prism:doi": "10.1016/j.patrec.2023.05.017",
+        "pii": "S0167865523001447",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Bristol",
+            "affiliation-city": "Bristol",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24825",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherhybridgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Hybrid Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85153524765"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85153524765?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85153524765&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85153524765&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0895611123000502"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85153524765",
+        "dc:identifier": "SCOPUS_ID:85153524765",
+        "eid": "2-s2.0-85153524765",
+        "dc:title": "Semantically preserving adversarial unsupervised domain adaptation network for improving disease recognition from chest x-rays",
+        "dc:creator": "Qin X.",
+        "prism:publicationName": "Computerized Medical Imaging and Graphics",
+        "prism:issn": "08956111",
+        "prism:eIssn": "18790771",
+        "prism:volume": "107",
+        "prism:pageRange": null,
+        "prism:coverDate": "2023-07-01",
+        "prism:coverDisplayDate": "July 2023",
+        "prism:doi": "10.1016/j.compmedimag.2023.102232",
+        "pii": "S0895611123000502",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Saskatchewan",
+            "affiliation-city": "Saskatoon",
+            "affiliation-country": "Canada"
+          }
+        ],
+        "pubmed-id": "37062171",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "102232",
+        "source-id": "23607",
+        "openaccess": "0",
+        "openaccessFlag": false
+      }
+    ]
+  }
+}

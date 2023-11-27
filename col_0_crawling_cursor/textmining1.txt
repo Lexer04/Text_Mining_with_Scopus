@@ -1,0 +1,480 @@
+date: 2011-12-01
+Palmprint verification using binary contrast context vector	1st Asian Conference on Pattern Recognition, ACPR 2011
+
+date: 2011-12-01
+Detecting object in the dynamic background from the noisy image in visual surveillance	IET Seminar Digest
+
+date: 2011-12-01
+Fusion of differential morphological profiles for multi-scale weighted feature pyramid generation in remotely sensed imagery	Proceedings - Applied Imagery Pattern Recognition Workshop
+
+date: 2011-12-01
+A palm print authentication system using quantized phase feature representation	Proceedings - Applied Imagery Pattern Recognition Workshop
+
+date: 2011-12-01
+A vision-based system to help senior citizens for memory recall of object-placing	Proceedings - 2011 International Conference on Instrumentation, Measurement, Computer, Communication and Control, IMCCC 2011
+
+date: 2011-12-01
+An efficient method for Finger-Knuckle-Print recognition based on information fusion	2011 IEEE International Conference on Signal and Image Processing Applications, ICSIPA 2011
+
+date: 2011-12-01
+A fast interactive image segmentation to locate multiple similar-colored objects	Proceedings - 2011 3rd National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics, NCVPRIPG 2011
+
+date: 2011-12-01
+Integration of reconstruction error obtained by local and global Kernel PCA with different role	19th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision, WSCG 2011 - In Co-operation with EUROGRAPHICS, Full Papers Proceedings
+
+date: 2011-12-01
+FKP biometrics for human authentication using gabor wavelets	IEEE Region 10 Annual International Conference, Proceedings/TENCON
+
+date: 2011-12-01
+Efficient algorithm for low-rank matrix factorization with missing components and performance comparison of latest algorithms	Proceedings of the IEEE International Conference on Computer Vision
+
+date: 2011-12-01
+Annotator rationales for visual recognition	Proceedings of the IEEE International Conference on Computer Vision
+
+date: 2011-12-01
+Efficient variational inference in large-scale Bayesian compressed sensing	Proceedings of the IEEE International Conference on Computer Vision
+
+date: 2011-12-01
+GEA optimization for live structureless motion estimation	Proceedings of the IEEE International Conference on Computer Vision
+
+date: 2011-12-01
+What an image reveals about material reflectance	Proceedings of the IEEE International Conference on Computer Vision
+
+date: 2011-12-01
+Shape-constrained Gaussian process regression for facial-point-based head-pose normalization	Proceedings of the IEEE International Conference on Computer Vision
+
+date: 2011-12-01
+Robust visual object tracking with extended CAMShift in complex environments	IECON Proceedings (Industrial Electronics Conference)
+
+date: 2011-12-01
+Color HOG-EBGM for face recognition	Proceedings - International Conference on Image Processing, ICIP
+
+date: 2011-12-01
+An implementation of moving object detection, tracking and counting objects for traffic surveillance system	Proceedings - 2011 International Conference on Computational Intelligence and Communication Systems, CICN 2011
+
+date: 2011-12-01
+A novel approach for Finger-Knuckle-Print recognition based on Gabor feature fusion	Proceedings - 4th International Congress on Image and Signal Processing, CISP 2011
+
+date: 2011-12-01
+Rendering synthetic objects into legacy photographs	Proceedings of the 2011 SIGGRAPH Asia Conference, SA'11
+
+date: 2011-12-01
+An efficient method for finger-knuckle-print recognition by using the information fusion at different levels	2011 International Conference on Hand-Based Biometrics, ICHB 2011 - Proceedings
+
+date: 2011-12-01
+Quantitative analysis of nonlinear embedding	IEEE Transactions on Neural Networks
+
+date: 2011-12-01
+Skin colour segmentation based 2D and 3D human pose modelling using Discrete Wavelet Transform	Pattern Recognition and Image Analysis
+
+date: 2011-12-01
+Rendering synthetic objects into legacy photographs	ACM Transactions on Graphics
+
+date: 2011-12-01
+A co-saliency model of image pairs	IEEE Transactions on Image Processing
+
+date: 2012-12-01
+Semantic modeling of natural scenes by Local Binary pattern	2012 International Conference on Machine Vision and Image Processing, MVIP 2012
+
+date: 2012-12-01
+Tangent bundle curve completion with locally connected parallel networks	Neural Computation
+
+date: 2012-12-01
+Fast and robust object detection using asymmetric totally corrective boosting	IEEE Transactions on Neural Networks and Learning Systems
+
+date: 2012-12-01
+An efficient learning procedure for deep Boltzmann machines	Neural Computation
+
+date: 2012-12-01
+Real-time multi-object detection and tracking for autonomous robots in uncontrolled environments	Proceedings - ICCES 2012: 2012 International Conference on Computer Engineering and Systems
+
+date: 2012-12-01
+Improved generative semisupervised learning based on finely grained component-conditional class labeling	Neural Computation
+
+date: 2012-12-01
+Riemannian shape analysis based on meridian curves	Proceedings - 2012 11th International Conference on Machine Learning and Applications, ICMLA 2012
+
+date: 2012-12-01
+An automated object-based approach to detect Sirex-infestation in pines	American Society for Photogrammetry and Remote Sensing Annual Conference 2012, ASPRS 2012
+
+date: 2012-12-01
+Palm vein recognition using curvelet transform	ACM International Conference Proceeding Series
+
+date: 2012-12-01
+A system for live geo-spatial photogrammetry in airborne surveillance videos	ACM International Conference Proceeding Series
+
+date: 2012-12-01
+Comparison of wavelet based watermarking techniques Using SVD	Proceedings of the 2012 International Conference on Image Processing, Computer Vision, and Pattern Recognition, IPCV 2012
+
+date: 2012-12-01
+Object description and finding of geometric structures on the base of extracted straight edge segments in digital images	Proceedings of the 2012 International Conference on Image Processing, Computer Vision, and Pattern Recognition, IPCV 2012
+
+date: 2012-12-01
+A double-shuffle image-encryption algorithm	Proceedings of the 2012 International Conference on Image Processing, Computer Vision, and Pattern Recognition, IPCV 2012
+
+date: 2012-12-01
+Mixed propagation for image retrieval	Proceedings - 2012 4th International Conference on Multimedia and Security, MINES 2012
+
+date: 2012-12-01
+Image denoising using anisotropic second and fourth order diffusions based on gradient vector convolution	Computer Science and Information Systems
+
+date: 2012-12-01
+Local stereo matching using an variable window, census transform and an edge-preserving filter	International Conference on Control, Automation and Systems
+
+date: 2012-12-01
+Representing and manipulating mesh-based character animations	Brazilian Symposium of Computer Graphic and Image Processing
+
+date: 2012-12-01
+Dorsal finger texture recognition: Investigating fixed-length SURF	Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics
+
+date: 2012-12-01
+Text-to-image retrieval based on incremental association via multimodal hypernetworks	Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics
+
+date: 2012-12-01
+Estimator initialization in vision-aided inertial navigation with unknown camera-IMU calibration	IEEE International Conference on Intelligent Robots and Systems
+
+date: 2012-12-01
+A comparative study of calibration methods for Kinect-style cameras	ACM International Conference Proceeding Series
+
+date: 2012-12-01
+Efficient iris segmentation using Grow-Cut algorithm for remotely acquired iris images	2012 IEEE 5th International Conference on Biometrics: Theory, Applications and Systems, BTAS 2012
+
+date: 2012-12-01
+Learning the dynamics of objects by optimal functional interpolation	Neural Computation
+
+date: 2012-12-01
+RFID-driven situation awareness on TangiSense, a table interacting with tangible objects	Personal and Ubiquitous Computing
+
+date: 2012-12-01
+Intuitive terrain reconstruction using height observation-based ground segmentation and 3D object boundary estimation	Sensors (Switzerland)
+
+date: 2013-10-17
+Overview of Eye tracking Datasets	2013 5th International Workshop on Quality of Multimedia Experience, QoMEX 2013 - Proceedings
+
+date: 2013-10-08
+Design of a chromatic 3d camera with an end-to-end performance model approach	IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops
+
+date: 2013-10-08
+GPU-SHOT: Parallel optimization for real-time 3D local description	IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops
+
+date: 2013-10-08
+3D hand gesture recognition using the hough transform	Advances in Electrical and Computer Engineering
+
+date: 2013-10-08
+Decoupling sparse coding with fusion of fisher vectors and scalable SVMs for large-scale visual recognition	IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops
+
+date: 2013-10-08
+Vision-based lane analysis: Exploration of issues and approaches for embedded realization	IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops
+
+date: 2013-10-08
+A semi-automatic methodology for facial landmark annotation	IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops
+
+date: 2013-10-07
+Next generation of physical training environments: Bringing in sensor systems and virtual reality technologies	Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+
+date: 2013-10-07
+A hierarchical behavior analysis approach for automated trainee performance evaluation in training ranges	Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+
+date: 2013-10-07
+An advanced method for human body detection	Applied Mechanics and Materials
+
+date: 2013-10-01
+Coarse-to-fine hair segmentation method	Ruan Jian Xue Bao/Journal of Software
+
+date: 2013-10-01
+Visual saliency detection using information divergence	Pattern Recognition
+
+date: 2013-10-01
+MLRank: Multi-correlation Learning to Rank for image annotation	Pattern Recognition
+
+date: 2013-10-01
+Discriminative histograms of local dominant orientation (D-HLDO) for biometric image feature extraction	Pattern Recognition
+
+date: 2013-09-20
+Designing palmprint based recognition system using local structure tensor and force field transformation for human identification	Neurocomputing
+
+date: 2013-09-09
+Continuous pose estimation in 2D images at instance and category levels	Proceedings - 2013 International Conference on Computer and Robot Vision, CRV 2013
+
+date: 2013-09-09
+Inverted indexing in image fragment retrieval using huge keypoint-based vocabularies	Proceedings - International Workshop on Content-Based Multimedia Indexing
+
+date: 2013-09-04
+Volumetric shape grammars for image segmentation and shape estimation	Conference Proceedings - IEEE SOUTHEASTCON
+
+date: 2013-09-04
+Using a MAP-MRF model to improve 3D mesh segmentation algorithms	Conference Proceedings - IEEE SOUTHEASTCON
+
+date: 2013-09-03
+Closed contour specular reflection segmentation in laparoscopic images	International Journal of Biomedical Imaging
+
+date: 2013-09-01
+Greedy feature selection for subspace clustering	Journal of Machine Learning Research
+
+date: 2013-09-01
+Score level fusion of voting strategy of geometric hashing and SURF for an efficient palmprint-based identification	Journal of Real-Time Image Processing
+
+date: 2013-09-01
+Novel mixture model-based approaches for person verification using multimodal biometrics	Signal, Image and Video Processing
+
+date: 2013-09-01
+Histogram-based optical flow for motion estimation in ultrasound imaging	Journal of Mathematical Imaging and Vision
+
+date: 2013-09-01
+Surface fluid registration of conformal representation: Application to detect disease burden and genetic influence on hippocampus	NeuroImage
+
+date: 2014-02-11
+Guaranteed classification via regularized similarity learning	Neural Computation
+
+date: 2014-02-11
+Robust subspace discovery via relaxed rank minimization	Neural Computation
+
+date: 2014-02-07
+Robust image restoration via reweighted low-rank matrix recovery	Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+
+date: 2014-02-01
+Impact of distance-based metric learning on classification and visualization model performance and structure-activity landscapes	Journal of Computer-Aided Molecular Design
+
+date: 2014-02-01
+Selection of discriminative sub-regions for palmprint recognition	Multimedia Tools and Applications
+
+date: 2014-02-01
+Face recognition using similarity pattern of image directional edge response	Advances in Electrical and Computer Engineering
+
+date: 2014-01-30
+Improved sparse coding under the influence of perceptual attention	Neural Computation
+
+date: 2014-01-28
+An effective image restoration using Kullback-Leibler divergence minimization	2014 IEEE International Conference on Image Processing, ICIP 2014
+
+date: 2014-01-28
+Biharmonic density estimate - A scale space signature for deformable surfaces	2014 IEEE International Conference on Image Processing, ICIP 2014
+
+date: 2014-01-28
+Blind image deblurring using non-negative sparse approximation	2014 IEEE International Conference on Image Processing, ICIP 2014
+
+date: 2014-01-27
+Vision-based hand grasping posture recognition in drinking activity	2014 International Symposium on Intelligent Signal Processing and Communication Systems, ISPACS 2014
+
+date: 2014-01-27
+Absolute three-dimensional shape measurement using coded fringe patterns without phase unwrapping or projector calibration	Optics Express
+
+date: 2014-01-23
+Color edges extraction using statistical features and automatic threshold technique: Application to the breast cancer cells	BioMedical Engineering Online
+
+date: 2014-01-17
+A novel algorithm and hardware architecture for fast video-based shape reconstruction of space debris	Tijdschrift voor Urologie
+
+date: 2014-01-16
+Multivariate volume visualization through dynamic projections	IEEE Symposium on Large Data Analysis and Visualization 2014, LDAV 2014 - Proceedings
+
+date: 2014-01-12
+Novel hand biometric system using invariant descriptors	6th International Conference on Soft Computing and Pattern Recognition, SoCPaR 2014
+
+date: 2014-01-01
+Data Visualization: Principles and Practice: Second Edition	Data Visualization: Principles and Practice: Second Edition
+
+date: 2014-01-01
+Introduction	SpringerBriefs in Computer Science
+
+date: 2014-01-01
+Enhancement via integrating spatial information	SpringerBriefs in Computer Science
+
+date: 2014-01-01
+Evolution of feature coding	SpringerBriefs in Computer Science
+
+date: 2014-01-01
+Representative feature coding algorithms	SpringerBriefs in Computer Science
+
+date: 2014-01-01
+Experimental study of feature coding	SpringerBriefs in Computer Science
+
+date: 2014-01-01
+Conclusion	SpringerBriefs in Computer Science
+
+date: 2014-01-01
+A Contrario line segment detection	SpringerBriefs in Computer Science
+
+date: 2014-01-01
+Taxonomy	SpringerBriefs in Computer Science
+
+date: 2015-06-02
+Bayesian network based semantic image classification with attributed relational graph	Multimedia Tools and Applications
+
+date: 2015-06-02
+Practical and accurate calibration of RGB-D cameras using spheres	Computer Vision and Image Understanding
+
+date: 2015-06-02
+On the effectiveness of soft biometrics for increasing face verification rates	Computer Vision and Image Understanding
+
+date: 2015-06-02
+Collaborative part-based tracking using salient local predictors	Computer Vision and Image Understanding
+
+date: 2015-06-01
+Visual Fatigue Relaxation for Stereoscopic Video via Nonlinear Disparity Remapping	IEEE Transactions on Broadcasting
+
+date: 2015-06-01
+Trajectory optimization with particle swarm optimization for manipulator motion planning	IEEE Transactions on Industrial Informatics
+
+date: 2015-06-01
+Computer-assisted hip resurfacing planning using Lie group shape models	International Journal of Computer Assisted Radiology and Surgery
+
+date: 2015-05-27
+SMiLer: A semi-lazy time series prediction system for sensors	Proceedings of the ACM SIGMOD International Conference on Management of Data
+
+date: 2015-05-21
+Solving stereo transparency with an extended coarse-to-fine disparity energy model	Neural Computation
+
+date: 2015-05-19
+Automatic segmentation improvement based on parameter-free spectral matting	Journal of the Chinese Institute of Engineers, Transactions of the Chinese Institute of Engineers,Series A
+
+date: 2015-05-16
+Ocular biometrics: A survey of modalities and fusion approaches	Information Fusion
+
+date: 2015-05-01
+Distilled Collections from Textual Image Queries	Computer Graphics Forum
+
+date: 2015-05-01
+Stereo matching based on guided filter and segmentation	Optik
+
+date: 2015-05-01
+On surveillance for safety critical events: In-vehicle video networks for predictive driver assistance systems	Computer Vision and Image Understanding
+
+date: 2015-05-01
+Highly resistant gradient descent algorithm for computing intrinsic mean shape on similarity shape spaces	Statistical Papers
+
+date: 2015-04-19
+Visual tracking using neuromorphic asynchronous event-based cameras	Neural Computation
+
+date: 2015-04-18
+Zensors: Adaptive, rapidly deployable, human-intelligent sensor feeds	Conference on Human Factors in Computing Systems - Proceedings
+
+date: 2015-04-16
+Depth gradient based region of interest generation for pedestrian detection	ISOCC 2014 - International SoC Design Conference
+
+date: 2015-04-16
+A Self-adaptive CodeBook (SACB) model for real-time background subtraction	Image and Vision Computing
+
+date: 2015-04-14
+Recognition of hand gestures observed by depth cameras	International Journal of Advanced Robotic Systems
+
+date: 2015-04-10
+Ant-App-DB: A smart solution for monitoring arthropods activities, experimental data management and solar calculations without GPS in behavioral field studies	F1000Research
+
+date: 2015-04-03
+SignsWorld Facial Expression Recognition System (FERS)	Intelligent Automation and Soft Computing
+
+date: 2015-04-02
+An active contour model for the segmentation of images with intensity inhomogeneities and bias field estimation	PLoS ONE
+
+date: 2015-04-01
+Automated as-built 3D reconstruction of civil infrastructure using computer vision: Achievements, opportunities, and challenges	Advanced Engineering Informatics
+
+date: 2015-03-27
+Machine Learning: A Bayesian and Optimization Perspective	Machine Learning: A Bayesian and Optimization Perspective
+
+date: 2016-02-01
+NUS-PRO: A New Visual Tracking Challenge	IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+date: 2016-02-01
+Variational Image Fusion with Optimal Local Contrast	Computer Graphics Forum
+
+date: 2016-02-01
+Nearest neighbour classification of Indian sign language gestures using kinect camera	Sadhana - Academy Proceedings in Engineering Sciences
+
+date: 2016-02-01
+Filtering with state-observation examples via kernel Monte Carlo filter	Neural Computation
+
+date: 2016-01-22
+Robust palmprint recognition based on the fast variation Vese-Osher model	Neurocomputing
+
+date: 2016-01-08
+Direction vector grammar	2015 IEEE 13th International Scientific Conference on Informatics, INFORMATICS 2015 - Proceedings
+
+date: 2016-01-04
+A real-time facial expression recognizer using deep neural network	ACM IMCOM 2016: Proceedings of the 10th International Conference on Ubiquitous Information Management and Communication
+
+date: 2016-01-01
+State-of-the-Art Approaches for String and Text Analysis	Advances in Computer Vision and Pattern Recognition
+
+date: 2016-01-01
+Photo Recall: Using the Internet to Label Your Photos	Advances in Computer Vision and Pattern Recognition
+
+date: 2016-01-01
+Motivation and Overview	Advances in Computer Vision and Pattern Recognition
+
+date: 2016-01-01
+Conclusions	Advances in Computer Vision and Pattern Recognition
+
+date: 2016-01-01
+The Finger-Knuckle-Print Recognition Using the Kernel Principal Components Analysis and the Support Vector Machines	Lecture Notes in Networks and Systems
+
+date: 2016-01-01
+How emotional arousal enhances episodic memory	The Curated Reference Collection in Neuroscience and Biobehavioral Psychology
+
+date: 2016-01-01
+Play analysis for team sports video by using image sensing technologies	Kyokai Joho Imeji Zasshi/Journal of the Institute of Image Information and Television Engineers
+
+date: 2016-01-01
+Palmprint Image Quality Measurement Algorithm	Lecture Notes in Networks and Systems
+
+date: 2016-01-01
+Gloss editing in light fields	VMV 2016 - Vision, Modeling and Visualization
+
+date: 2016-01-01
+Middleware for Exchange and Validation of Context Data and Information	Advances in Computer Vision and Pattern Recognition
+
+date: 2016-01-01
+Persian sentences to phoneme sequences conversion based on recurrent neural networks	Open Computer Science
+
+date: 2016-01-01
+Crafting a multi-task CNN for viewpoint estimation	British Machine Vision Conference 2016, BMVC 2016
+
+date: 2016-01-01
+On using feature descriptors as visual words for object detection within X-ray baggage security screening	IET Seminar Digest
+
+date: 2016-01-01
+Designing a Facial Spoofing Database for Processed Image Attacks	IET Seminar Digest
+
+date: 2016-01-01
+Sparse regularization of TV-L1 optical flow	SpringerBriefs in Computer Science
+
+date: 2016-01-01
+Linear discriminant function	SpringerBriefs in Computer Science
+
+date: 2016-01-01
+Discussion	SpringerBriefs in Computer Science
+
+date: 2016-01-01
+Social networks	SpringerBriefs in Computer Science
+
+date: 2017-05-01
+Unsupervised 2D dimensionality reduction with adaptive structure learning	Neural Computation
+
+date: 2017-05-01
+Estimation of measurement uncertainty in stereo vision system	Image and Vision Computing
+
+date: 2017-05-01
+Accurate Periocular Recognition under Less Constrained Environment Using Semantics-Assisted Convolutional Neural Network	IEEE Transactions on Information Forensics and Security
+
+date: 2017-05-01
+A Benders decomposition based framework for solving cable trench problems	Computers and Operations Research
+
+date: 2017-04-01
+Automatic Microstructure Defect Detection of Ti-6Al-4V Titanium Alloy by Regions-Based Graph	IEEE Transactions on Emerging Topics in Computational Intelligence
+
+date: 2017-04-01
+Coordinated Multi-Point Clustering Schemes: A Survey	IEEE Communications Surveys and Tutorials
+
+date: 2017-04-01
+Hashing techniques: A survey and taxonomy	ACM Computing Surveys
+
+date: 2017-04-01
+Robust object tracking based on local discriminative sparse representation	Journal of the Optical Society of America A: Optics and Image Science, and Vision
+
+date: 2017-04-01
+Hyperspectral face recognition via feature extraction and CRC-based classifier	IET Image Processing
+
+date: 2017-04-01
+Semisupervised, multilabel, multi-instance learning for structured data	Neural Computation
+

@@ -1,0 +1,1603 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "561",
+    "opensearch:startIndex": "25",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "COMP|\"Computer Vision and Pattern Recognition\"+OR+\"Computer Vision and Image Recognition\"",
+      "@startPage": "25"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=25&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2014-2015",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2014-2015",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "prev",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2014-2015",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=50&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2014-2015",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=536&count=25&query=COMP%7C%22Computer+Vision+and+Pattern+Recognition%22%2BOR%2B%22Computer+Vision+and+Image+Recognition%22&date=2014-2015",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84947579021"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84947579021?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84947579021&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84947579021&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84947579021",
+        "dc:identifier": "SCOPUS_ID:84947579021",
+        "eid": "2-s2.0-84947579021",
+        "dc:title": "Orientation range of transposition for vertical correlation suppression of 2DPalmPhasor Code",
+        "dc:creator": "Leng L.",
+        "prism:publicationName": "Multimedia Tools and Applications",
+        "prism:issn": "13807501",
+        "prism:eIssn": "15737721",
+        "prism:volume": "74",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "11683-11701",
+        "prism:coverDate": "2015-12-01",
+        "prism:coverDisplayDate": "1 December 2015",
+        "prism:doi": "10.1007/s11042-014-2255-0",
+        "citedby-count": "20",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Nanchang Hangkong University",
+            "affiliation-city": "Nanchang",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Yonsei University",
+            "affiliation-city": "Seoul",
+            "affiliation-country": "South Korea"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25627",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84941122811"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84941122811?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84941122811&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84941122811&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S156849461500407X"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84941122811",
+        "dc:identifier": "SCOPUS_ID:84941122811",
+        "eid": "2-s2.0-84941122811",
+        "dc:title": "Metacarpophalangeal joint patterns based personal identification system",
+        "dc:creator": "Ozkaya N.",
+        "prism:publicationName": "Applied Soft Computing Journal",
+        "prism:issn": "15684946",
+        "prism:volume": "37",
+        "prism:pageRange": "288-295",
+        "prism:coverDate": "2015-12-01",
+        "prism:coverDisplayDate": "1 December 2015",
+        "prism:doi": "10.1016/j.asoc.2015.05.056",
+        "pii": "S156849461500407X",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Erciyes \u00dcniversitesi",
+            "affiliation-city": "Kayseri",
+            "affiliation-country": "Turkey"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "3052",
+        "source-id": "18136",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84960154514"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84960154514?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84960154514&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84960154514&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84960154514",
+        "dc:identifier": "SCOPUS_ID:84960154514",
+        "eid": "2-s2.0-84960154514",
+        "dc:title": "Training set forming for SVM algorithm with use of the fuzzy clustering algorithms ensemble on base of cluster tags vectors similarity matrices",
+        "dc:creator": "Demidova L.",
+        "prism:publicationName": "2015 International Conference on \"Stability and Control Processes\" in Memory of V.I. Zubov, SCP 2015 - Proceedings",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781467376983"
+          }
+        ],
+        "prism:pageRange": "619-622",
+        "prism:coverDate": "2015-11-30",
+        "prism:coverDisplayDate": "30 November 2015",
+        "prism:doi": "10.1109/SCP.2015.7342241",
+        "citedby-count": "5",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Ryazan State Radio Engineering University",
+            "affiliation-city": "Ryazan",
+            "affiliation-country": "Russian Federation"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "7342241",
+        "source-id": "21100449121",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84937818444"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84937818444?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84937818444&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84937818444&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925231215007687"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84937818444",
+        "dc:identifier": "SCOPUS_ID:84937818444",
+        "eid": "2-s2.0-84937818444",
+        "dc:title": "Adaptive weighted fusion: A novel fusion approach for image classification",
+        "dc:creator": "Xu Y.",
+        "prism:publicationName": "Neurocomputing",
+        "prism:issn": "09252312",
+        "prism:eIssn": "18728286",
+        "prism:volume": "168",
+        "prism:pageRange": "566-574",
+        "prism:coverDate": "2015-11-30",
+        "prism:coverDisplayDate": "30 November 2015",
+        "prism:doi": "10.1016/j.neucom.2015.05.070",
+        "pii": "S0925231215007687",
+        "citedby-count": "65",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Harbin Institute of Technology",
+            "affiliation-city": "Harbin",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Key Laboratory of Network Oriented Intelligent Computation",
+            "affiliation-city": "Qingshuihe, Shenzhen",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24807",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84959879418"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84959879418?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84959879418&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84959879418&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84959879418",
+        "dc:identifier": "SCOPUS_ID:84959879418",
+        "eid": "2-s2.0-84959879418",
+        "dc:title": "A hybrid active contour without re-initialization",
+        "dc:creator": "Azizi A.",
+        "prism:publicationName": "ACM International Conference Proceeding Series",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781450334587"
+          }
+        ],
+        "prism:volume": "23-25-November-2015",
+        "prism:pageRange": null,
+        "prism:coverDate": "2015-11-23",
+        "prism:coverDisplayDate": "23 November 2015",
+        "prism:doi": "10.1145/2816839.2816859",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e9 Mohamed Khider Biskra",
+            "affiliation-city": "Biskra",
+            "affiliation-country": "Algeria"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "a45",
+        "source-id": "11600154611",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84954071020"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84954071020?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84954071020&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84954071020&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84954071020",
+        "dc:identifier": "SCOPUS_ID:84954071020",
+        "eid": "2-s2.0-84954071020",
+        "dc:title": "Probabilistic human daily activity recognition towards robot-assisted living",
+        "dc:creator": "Faria D.",
+        "prism:publicationName": "Proceedings - IEEE International Workshop on Robot and Human Interactive Communication",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781467367042"
+          }
+        ],
+        "prism:volume": "2015-November",
+        "prism:pageRange": "582-587",
+        "prism:coverDate": "2015-11-20",
+        "prism:coverDisplayDate": "20 November 2015",
+        "prism:doi": "10.1109/ROMAN.2015.7333644",
+        "citedby-count": "25",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Coimbra, Institute of Systems and Robotics",
+            "affiliation-city": "Coimbra",
+            "affiliation-country": "Portugal"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "7333644",
+        "source-id": "144690",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84964389147"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84964389147?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84964389147&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84964389147&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84964389147",
+        "dc:identifier": "SCOPUS_ID:84964389147",
+        "eid": "2-s2.0-84964389147",
+        "dc:title": "Avatar reshaping and automatic rigging using a deformable model",
+        "dc:creator": "Feng A.",
+        "prism:publicationName": "Proceedings of the 8th ACM SIGGRAPH Conference on Motion in Games, MIG 2015",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781450339919"
+          }
+        ],
+        "prism:pageRange": "57-64",
+        "prism:coverDate": "2015-11-16",
+        "prism:coverDisplayDate": "16 November 2015",
+        "prism:doi": "10.1145/2822013.2822017",
+        "citedby-count": "60",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Southern California",
+            "affiliation-city": "Los Angeles",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100456638",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84962557767"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84962557767?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84962557767&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84962557767&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84962557767",
+        "dc:identifier": "SCOPUS_ID:84962557767",
+        "eid": "2-s2.0-84962557767",
+        "dc:title": "Interactive feature learning from SAR image patches",
+        "dc:creator": "Babaee M.",
+        "prism:publicationName": "International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479979295"
+          }
+        ],
+        "prism:volume": "2015-November",
+        "prism:pageRange": "541-544",
+        "prism:coverDate": "2015-11-10",
+        "prism:coverDisplayDate": "10 November 2015",
+        "prism:doi": "10.1109/IGARSS.2015.7325820",
+        "citedby-count": "5",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Technische Universit\u00e4t M\u00fcnchen",
+            "affiliation-city": "Munich",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "7325820",
+        "source-id": "82000",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84966552706"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84966552706?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84966552706&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84966552706&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84966552706",
+        "dc:identifier": "SCOPUS_ID:84966552706",
+        "eid": "2-s2.0-84966552706",
+        "dc:title": "Palmprint authentication technique using fuzzy embedded radon transform and Collaborative Representation based Classifier",
+        "dc:creator": "Shit S.",
+        "prism:publicationName": "2015 International Conference on Communication and Signal Processing, ICCSP 2015",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479980819"
+          }
+        ],
+        "prism:pageRange": "545-549",
+        "prism:coverDate": "2015-11-09",
+        "prism:coverDisplayDate": "9 November 2015",
+        "prism:doi": "10.1109/ICCSP.2015.7322544",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Jadavpur University",
+            "affiliation-city": "Kolkata",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "7322544",
+        "source-id": "21100457384",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84946887435"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84946887435?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84946887435&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84946887435&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84946887435",
+        "dc:identifier": "SCOPUS_ID:84946887435",
+        "eid": "2-s2.0-84946887435",
+        "dc:title": "Analyzing analytics",
+        "dc:creator": "Bordawekar R.",
+        "prism:publicationName": "Synthesis Lectures on Computer Architecture",
+        "prism:issn": "19353235",
+        "prism:eIssn": "19353243",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781627058353"
+          }
+        ],
+        "prism:volume": "35",
+        "prism:pageRange": "i-114",
+        "prism:coverDate": "2015-11-02",
+        "prism:coverDisplayDate": "2 November 2015",
+        "prism:doi": "10.2200/S00678ED1V01Y201511CAC035",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "IBM Thomas J. Watson Research Center",
+            "affiliation-city": "Yorktown Heights",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "5200152624",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032752311"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032752311?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032752311&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032752311&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032752311",
+        "dc:identifier": "SCOPUS_ID:85032752311",
+        "eid": "2-s2.0-85032752311",
+        "dc:title": "Euclidean Distance Matrices: Essential theory, algorithms, and applications",
+        "dc:creator": "Dokmanic I.",
+        "prism:publicationName": "IEEE Signal Processing Magazine",
+        "prism:issn": "10535888",
+        "prism:volume": "32",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "12-30",
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "1 November 2015",
+        "prism:doi": "10.1109/MSP.2015.2398954",
+        "citedby-count": "324",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "affiliation-city": "Lausanne",
+            "affiliation-country": "Switzerland"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "7298562",
+        "source-id": "12996",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryvor"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84996483994"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84996483994?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84996483994&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84996483994&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84996483994",
+        "dc:identifier": "SCOPUS_ID:84996483994",
+        "eid": "2-s2.0-84996483994",
+        "dc:title": "Surface turbulence for particle-based liquid simulations",
+        "dc:creator": "Mercier O.",
+        "prism:publicationName": "ACM Transactions on Graphics",
+        "prism:issn": "07300301",
+        "prism:eIssn": "15577368",
+        "prism:volume": "34",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": null,
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "November 2015",
+        "prism:doi": "10.1145/2816795.2818115",
+        "citedby-count": "38",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Montreal",
+            "affiliation-city": "Montreal",
+            "affiliation-country": "Canada"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "202",
+        "source-id": "24972",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84960345910"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84960345910?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84960345910&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84960345910&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84960345910",
+        "dc:identifier": "SCOPUS_ID:84960345910",
+        "eid": "2-s2.0-84960345910",
+        "dc:title": "Robust Face Clustering Via Tensor Decomposition",
+        "dc:creator": "Cao X.",
+        "prism:publicationName": "IEEE Transactions on Cybernetics",
+        "prism:issn": "21682267",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "2546-2557",
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "November 2015",
+        "prism:doi": "10.1109/TCYB.2014.2376938",
+        "citedby-count": "62",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Institute of Information Engineering",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          }
+        ],
+        "pubmed-id": "25546869",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "6995956",
+        "source-id": "21100274221",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952673434"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952673434?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84952673434&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84952673434&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84952673434",
+        "dc:identifier": "SCOPUS_ID:84952673434",
+        "eid": "2-s2.0-84952673434",
+        "dc:title": "Recognizing suspicious activities in infrared imagery using appearance-based features and the theory of hidden conditional random fields for outdoor perimeter surveillance",
+        "dc:creator": "Rogotis S.",
+        "prism:publicationName": "Journal of Electronic Imaging",
+        "prism:issn": "10179909",
+        "prism:eIssn": "1560229X",
+        "prism:volume": "24",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": null,
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "1 November 2015",
+        "prism:doi": "10.1117/1.JEI.24.6.061111",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Centre for Research and Technology-Hellas",
+            "affiliation-city": "Thessaloniki",
+            "affiliation-country": "Greece"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "061111",
+        "source-id": "25978",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84949191908"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84949191908?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84949191908&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84949191908&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84949191908",
+        "dc:identifier": "SCOPUS_ID:84949191908",
+        "eid": "2-s2.0-84949191908",
+        "dc:title": "The robust reconstruction of disparity maps using multilevel processing of color image stereopairs",
+        "dc:creator": "Kravchenko V.",
+        "prism:publicationName": "Doklady Physics",
+        "prism:issn": "10283358",
+        "prism:volume": "60",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "495-499",
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "1 November 2015",
+        "prism:doi": "10.1134/S1028335815110117",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Kotelnikov Institute of Radioengineering and Electronics (IRE) of Russian Academy of Sciences",
+            "affiliation-city": "Moscow",
+            "affiliation-country": "Russian Federation"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27502",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84945497393"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84945497393?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84945497393&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84945497393&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84945497393",
+        "dc:identifier": "SCOPUS_ID:84945497393",
+        "eid": "2-s2.0-84945497393",
+        "dc:title": "A semiautomatic method for in vivo three-dimensional quantitative analysis of fascial layers mobility based on 3D ultrasound scans",
+        "dc:creator": "Condino S.",
+        "prism:publicationName": "International Journal of Computer Assisted Radiology and Surgery",
+        "prism:issn": "18616410",
+        "prism:eIssn": "18616429",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "1721-1735",
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "1 November 2015",
+        "prism:doi": "10.1007/s11548-015-1167-4",
+        "citedby-count": "13",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e0 di Pisa",
+            "affiliation-city": "Pisa",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "pubmed-id": "25740204",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "4700152490",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84945288915"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84945288915?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84945288915&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84945288915&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84945288915",
+        "dc:identifier": "SCOPUS_ID:84945288915",
+        "eid": "2-s2.0-84945288915",
+        "dc:title": "Bandit-based task assignment for heterogeneous crowdsourcing",
+        "dc:creator": "Zhang H.",
+        "prism:publicationName": "Neural Computation",
+        "prism:issn": "08997667",
+        "prism:eIssn": "1530888X",
+        "prism:volume": "27",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "2447-2475",
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "1 November 2015",
+        "prism:doi": "10.1162/NECO_a_00782",
+        "citedby-count": "12",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Tokyo Institute of Technology",
+            "affiliation-city": "Tokyo",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24782",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84962050523"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84962050523?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84962050523&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84962050523&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84962050523",
+        "dc:identifier": "SCOPUS_ID:84962050523",
+        "eid": "2-s2.0-84962050523",
+        "dc:title": "Dual 2-d images-based approach for objects' 3-D characterization and localization for Machine-Awareness in indoor environment",
+        "dc:creator": "Hassan D.",
+        "prism:publicationName": "IEEE 7th International Conference on Awareness Science and Technology, iCAST 2015 - Proceedings",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781467376587"
+          }
+        ],
+        "prism:pageRange": "201-206",
+        "prism:coverDate": "2015-10-30",
+        "prism:coverDisplayDate": "30 October 2015",
+        "prism:doi": "10.1109/ICAwST.2015.7314047",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e9 Paris-Est Cr\u00e9teil Val de Marne",
+            "affiliation-city": "Creteil",
+            "affiliation-country": "France"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "7314047",
+        "source-id": "21100454937",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84961741405"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84961741405?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84961741405&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84961741405&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84961741405",
+        "dc:identifier": "SCOPUS_ID:84961741405",
+        "eid": "2-s2.0-84961741405",
+        "dc:title": "Texture aware image error concealment",
+        "dc:creator": "Uhlikova I.",
+        "prism:publicationName": "Proceedings - EUROCON 2015",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781479985692"
+          }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2015-10-30",
+        "prism:coverDisplayDate": "30 October 2015",
+        "prism:doi": "10.1109/EUROCON.2015.7313786",
+        "citedby-count": "5",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Univerzita Komensk\u00e9ho v Bratislave",
+            "affiliation-city": "Bratislava",
+            "affiliation-country": "Slovakia"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "7313786",
+        "source-id": "21100453526",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84961710287"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84961710287?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84961710287&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84961710287&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84961710287",
+        "dc:identifier": "SCOPUS_ID:84961710287",
+        "eid": "2-s2.0-84961710287",
+        "dc:title": "Skin-based privacy filter for surveillance systems",
+        "dc:creator": "Hoo W.",
+        "prism:publicationName": "2015 22nd International Conference on Systems, Signals and Image Processing - Proceedings of IWSSIP 2015",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781467383530"
+          }
+        ],
+        "prism:pageRange": "269-272",
+        "prism:coverDate": "2015-10-30",
+        "prism:coverDisplayDate": "30 October 2015",
+        "prism:doi": "10.1109/IWSSIP.2015.7314228",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universiti Malaya",
+            "affiliation-city": "Kuala Lumpur",
+            "affiliation-country": "Malaysia"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "7314228",
+        "source-id": "21100453540",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84959574987"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84959574987?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84959574987&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84959574987&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84959574987",
+        "dc:identifier": "SCOPUS_ID:84959574987",
+        "eid": "2-s2.0-84959574987",
+        "dc:title": "Contact-less palm/finger vein biometrics",
+        "dc:creator": "Sierro A.",
+        "prism:publicationName": "Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft fur Informatik (GI)",
+        "prism:issn": "16175468",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9783885796398"
+          },
+          {
+            "@_fa": "true",
+            "$": "9783885796398"
+          }
+        ],
+        "prism:volume": "P-245",
+        "prism:pageRange": null,
+        "prism:coverDate": "2015-10-30",
+        "prism:coverDisplayDate": "30 October 2015",
+        "prism:doi": "10.1109/BIOSIG.2015.7314596",
+        "citedby-count": "13",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Applied Sciences Western Switzerland",
+            "affiliation-city": "Delemont",
+            "affiliation-country": "Switzerland"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100229106",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84938964327"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84938964327?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84938964327&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84938964327&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84938964327",
+        "dc:identifier": "SCOPUS_ID:84938964327",
+        "eid": "2-s2.0-84938964327",
+        "dc:title": "Video Primal Sketch: A Unified Middle-Level Representation for Video",
+        "dc:creator": "Han Z.",
+        "prism:publicationName": "Journal of Mathematical Imaging and Vision",
+        "prism:issn": "09249907",
+        "prism:eIssn": "15737683",
+        "prism:volume": "53",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "151-170",
+        "prism:coverDate": "2015-10-27",
+        "prism:coverDisplayDate": "27 October 2015",
+        "prism:doi": "10.1007/s10851-015-0563-2",
+        "citedby-count": "6",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of California, Los Angeles",
+            "affiliation-city": "Los Angeles",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Shenyang Institute of Automation Chinese Academy of Sciences",
+            "affiliation-city": "Shenyang",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Xi'an Jiaotong University",
+            "affiliation-city": "Xi'an",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28501",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84942366351"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84942366351?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84942366351&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84942366351&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84942366351",
+        "dc:identifier": "SCOPUS_ID:84942366351",
+        "eid": "2-s2.0-84942366351",
+        "dc:title": "Emotions in context: examining pervasive affective sensing systems, applications, and analyses",
+        "dc:creator": "Kanjo E.",
+        "prism:publicationName": "Personal and Ubiquitous Computing",
+        "prism:issn": "16174909",
+        "prism:volume": "19",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "1197-1212",
+        "prism:coverDate": "2015-10-26",
+        "prism:coverDisplayDate": "26 October 2015",
+        "prism:doi": "10.1007/s00779-015-0842-3",
+        "citedby-count": "76",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Nottingham Trent University",
+            "affiliation-city": "Nottingham",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22315",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherhybridgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Hybrid Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84942364974"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84942364974?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84942364974&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84942364974&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84942364974",
+        "dc:identifier": "SCOPUS_ID:84942364974",
+        "eid": "2-s2.0-84942364974",
+        "dc:title": "A video cloud platform combing online and offline cloud computing technologies",
+        "dc:creator": "Zhang W.",
+        "prism:publicationName": "Personal and Ubiquitous Computing",
+        "prism:issn": "16174909",
+        "prism:volume": "19",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "1099-1110",
+        "prism:coverDate": "2015-10-26",
+        "prism:coverDisplayDate": "26 October 2015",
+        "prism:doi": "10.1007/s00779-015-0879-3",
+        "citedby-count": "39",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "China University of Petroleum (East China)",
+            "affiliation-city": "Qingdao",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22315",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84941882719"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84941882719?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84941882719&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84941882719&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84941882719",
+        "dc:identifier": "SCOPUS_ID:84941882719",
+        "eid": "2-s2.0-84941882719",
+        "dc:title": "Indefinite proximity learning: A review",
+        "dc:creator": "Schleif F.M.",
+        "prism:publicationName": "Neural Computation",
+        "prism:issn": "08997667",
+        "prism:eIssn": "1530888X",
+        "prism:volume": "27",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "2039-2096",
+        "prism:coverDate": "2015-10-21",
+        "prism:coverDisplayDate": "21 October 2015",
+        "prism:doi": "10.1162/NECO_a_00770",
+        "citedby-count": "68",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Birmingham",
+            "affiliation-city": "Birmingham",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "24782",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherhybridgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Hybrid Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
