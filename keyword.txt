@@ -1,0 +1,2 @@
+COMP|"Computer Vision and Pattern Recognition"+OR+"Computer Vision and Image Recognition"+OR+"Computer Vision"+OR+"Image Recognition"+OR+"Object Detection"+OR+ "computer vision"+OR+"Pattern Recognition"+OR+"Image Classification"+OR+"Image Captioning"+OR+"Real-Time Detection"+OR+"Detection"
+
